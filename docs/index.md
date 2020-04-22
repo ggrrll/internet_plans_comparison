@@ -1,1 +1,1 @@
-[interactive plot of few mobile internet plans](../plotly_inter_comparison.html)
+[interactive plot of few mobile internet plans](internet_plans_comparison/plotly_inter_comparison.html)
